@@ -63,7 +63,7 @@
             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x095370AE41FF23798d96c1ADF7D58Ae6a2b05b18/logo.png",
             "name": "DAI",
             "symbol": "DAI"
-        },        
+        }       
     ],
     "version": {
         "major": 2,
