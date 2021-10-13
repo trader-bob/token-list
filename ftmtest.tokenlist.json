@@ -17,23 +17,7 @@
             "symbol": "WFTM"
         },
         {
-            "address": "0x91ea991bd52EE3C40EdA2509701d905e1Ee54074",
-            "chainId": 4002,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftmtest/0x91ea991bd52EE3C40EdA2509701d905e1Ee54074/logo.png",
-            "name": "Fantom USD",
-            "symbol": "fUSD"
-        },
-        {
-            "address": "0x3b28f151899BD945AC1559a3540b5741C7d2BD55",
-            "chainId": 4002,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftmtest/0x3b28f151899BD945AC1559a3540b5741C7d2BD55/logo.png",
-            "name": "Staked FTM",
-            "symbol": "SFTM"
-        },
-        {
-            "address": "0xb6aA91E8904d691a10372706e57aE1b390D26353",
+            "address": "0x3EeC8440ff58292F33C49922F26d4E90c45B2241",
             "chainId": 4002,
             "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x408D4cD0ADb7ceBd1F1A1C33A0Ba2098E1295bAB/logo.png",
@@ -41,7 +25,7 @@
             "symbol": "BTC"
         },
         {
-            "address": "0x6fFa22292b86D678fF6621eEdC9B15e68dC44DcD",
+            "address": "0x66831f794f51785b401A70b912c970F0eAF8Cd7b",
             "chainId": 4002,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15/logo.png",
@@ -49,7 +33,7 @@
             "symbol": "ETH"
         },
         {
-            "address": "0x11632F9766Ee9d9317F95562a6bD529652ead78f",
+            "address": "0xe1999b2FD35eCd1B350A5D7093709fD2D52d1bb7",
             "chainId": 4002,
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xde3A24028580884448a5397872046a019649b084/logo.png",
@@ -57,7 +41,7 @@
             "symbol": "USDT"
         },
         {
-            "address": "0x4f1F87d512650f32bf9949C4c5Ef37a3cc891C6D",
+            "address": "0x7168B33C8d4BB39a7a66B616D3109bD8F078b5D1",
             "chainId": 4002,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x095370AE41FF23798d96c1ADF7D58Ae6a2b05b18/logo.png",
@@ -66,7 +50,7 @@
         }       
     ],
     "version": {
-        "major": 3,
+        "major": 4,
         "minor": 0,
         "patch": 0
     }
